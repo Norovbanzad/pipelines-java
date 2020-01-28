@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/practice-devops/devops-pipeline-practice/_apis/build/status/Norovbanzad.pipelines-java?branchName=master)](https://dev.azure.com/practice-devops/devops-pipeline-practice/_build/latest?definitionId=7&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
